@@ -83,7 +83,6 @@ Visit 👉 http://localhost:3000
 
 ## 📂 Project Structure  
 
-bash
 aspireai/
 ├── app/                  # Next.js app directory
 │   ├── (main)/           # Main application routes
