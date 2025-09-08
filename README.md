@@ -1,9 +1,6 @@
 # 🚀 AspireAI – AI-Powered Career Development Platform  
 
-![Stars](https://img.shields.io/github/stars/she1234khar/aspireai?style=social)  
-![Forks](https://img.shields.io/github/forks/she1234khar/aspireai?style=social)  
-![Issues](https://img.shields.io/github/issues/she1234khar/aspireai)  
-![License](https://img.shields.io/github/license/she1234khar/aspireai)  
+
 
 AspireAI is an advanced, AI-powered career development platform designed to guide users through every step of their professional journey.  
 Whether you're crafting the perfect resume, preparing for interviews, or navigating industry shifts, AspireAI provides intelligent, real-time support to supercharge your career.  
