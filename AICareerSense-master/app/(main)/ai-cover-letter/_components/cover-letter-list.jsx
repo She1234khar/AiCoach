@@ -104,7 +104,7 @@ export default function CoverLetterList({ coverLetters }) {
           </CardHeader>
           <CardContent>
             <div className="text-muted-foreground text-sm line-clamp-3">
-              {letter.jobDescription}
+              {.jobDescription}
             </div>
           </CardContent>
         </Card>
